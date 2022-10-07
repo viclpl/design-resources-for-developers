@@ -1,0 +1,21 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+*{font-family:font-family= 'Poppins', sans-serif;
+  vertical-align: text-top;}
+
+  .centered {
+    position:absolute;
+    top: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+  }
+  
+
+.container {
+  position: relative;
+  text-align: center;
+  color: aqua;
+}
